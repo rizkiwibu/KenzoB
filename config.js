@@ -153,9 +153,9 @@ global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄"
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/9d413f9598257e85d908e.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/18e367c67e13908302689.jpg'
-global.thumbbc = 'https://telegra.ph/file/05f874dc87f7e27fa8127.jpg' //For broadcast
+global.thumb = 'https://telegra.ph/file/ce260294c10a0943e2cdb.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/a0708856eded6f465df30.jpg'
+global.thumbbc = 'https://telegra.ph/file/ce260294c10a0943e2cdb.jpg' //For broadcast
 global.giflogo = Anime()
 global.thumblvlup = 'https://telegra.ph/file/a3e66e0fa840b08236c75.jpg'
 global.flaaa2 = flaaa2Anu()
@@ -401,7 +401,7 @@ global.md = pickRandom(["_In progress, please wait..._", "Proses", "Tunggu Seben
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 838 6372 7401'
+global.phn = '6285878836361'
 
 //Danied\\
 
@@ -421,7 +421,7 @@ global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 global.djson = 'application/json'
 
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/ce260294c10a0943e2cdb.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -450,10 +450,10 @@ global.htjava = pickRandom(["⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", 
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '.'
+global.stickpack = 'ikybot'
 global.stickauth = `☂︎\nK\nE\nN\nZ\nO\n-\nB\nO\nT\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Sticker Request By '
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᚯӃᶱᶮᶽᶲ ʙᴏᴛᴢ'
+global.packname2 = 'Ikybot'
 
 global.multiplier = 38 // The higher, The harder levelup
 
