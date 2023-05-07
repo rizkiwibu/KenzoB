@@ -59,22 +59,22 @@ global.syt = 'https://youtube.com/@Putra_Modz_'
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '083863727401' //Nomor Danamu
-global.ppulsa = '083863728401' //Nomor SimCard Yang Kamu Pake
+global.pdana = '-' //Nomor Danamu
+global.ppulsa = '-' //Nomor SimCard Yang Kamu Pake
 global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727376' //Nomor Bot
-global.nomorown = '6283863727401' //Nomor Owner
-global.namebot = 'ᚯӃᶱᶮᶽᶲメ฿Ø₮™' //Nama Bot
-global.nameown = '༄ᶜputra☆࿐' // Nama Owner
-global.wame = 'https://api.whatsapp.com/send?phone=+6283863727401'
-global.tautanwa = 'https://api.whatsapp.com/send?phone=+6283863727401' //kalau bisa link wa bisnis kalian
+global.nomorbot = '-' //Nomor Bot
+global.nomorown = '6285878836361' //Nomor Owner
+global.namebot = 'IKyBot™' //Nama Bot
+global.nameown = '༄ᶜrizki☆࿐' // Nama Owner
+global.wame = 'https://api.whatsapp.com/send?phone=+6285878836361'
+global.tautanwa = 'https://api.whatsapp.com/send?phone=+6285878836361' //kalau bisa link wa bisnis kalian
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283863727401', '❦ ༄ᶜᴋputra☆࿐ 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6285878836361', '❦ rizki 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -141,10 +141,10 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ᚯӃᶱᶮᶽᶲメ汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᚯӃᶱᶮᶽᶲメ฿Ø₮™˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ᚯӃᶱᶮᶽᶲメ฿Ø₮™'
-global.namedoc = 'ᚯӃᶱᶮᶽᶲメ' //Main Name Menu Document
+global.wm = '                「 Ikybot  」' //Main Watermark
+global.wm2 = 'Ikybot™˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ ᚯIkybot™'
+global.namedoc = 'ikybot24jamメ' //Main Name Menu Document
 global.botdate = `⫹⫺ Day's: ${week} ${date}`
 global.bottime = `ᴛɪᴍᴇ: ${wktuwib}`
 global.titlebot = '🎋 ┊ ᚯӃᶱᶮᶽᶲ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
